@@ -1,3 +1,5 @@
+TESTS
+
 MyBatis JPetStore
 =================
 
